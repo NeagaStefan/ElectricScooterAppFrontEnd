@@ -1,0 +1,16 @@
+.scootersAvailable {
+    display: grid;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+.btn {
+    margin-right: 2px;
+    margin-bottom: 5px;
+
+}
+.top-part {
+    display: grid;
+   align-content: center;
+    text-align: center;
+}
